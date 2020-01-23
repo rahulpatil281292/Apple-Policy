@@ -13,13 +13,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        setUp()
     }
 
     private func setUp() {
         setUpViewController()
         setUpNavigationBar()
-        setUpTableView()
+        //setUpTableView()
     }
     
     private func setUpViewController() {
