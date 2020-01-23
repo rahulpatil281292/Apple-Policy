@@ -16,12 +16,12 @@ class ViewController: UIViewController {
     }
 
     private func setUp() {
-        setUpViewController()
+        setUpVC()
         setUpNavigationBar()
         //setUpTableView()
     }
     
-    private func setUpViewController() {
+    private func setUpVC() {
         
     }
     
