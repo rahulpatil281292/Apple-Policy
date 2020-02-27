@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     private func setUp() {
         setUpVC()
         setUpNavigationBar()
-        //setUpTableView()
+        setUpTableView()
     }
     
     private func setUpVC() {

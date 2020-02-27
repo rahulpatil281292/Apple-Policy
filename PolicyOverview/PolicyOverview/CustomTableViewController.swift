@@ -38,3 +38,9 @@ extension CustomTableViewController {
         return 1
     }
 }
+
+extension CustomTableViewController {
+    override func tableView(_ tableView: UITableView, didEndDisplaying cell: UITableViewCell, forRowAt indexPath: IndexPath) {
+       
+    }
+}
