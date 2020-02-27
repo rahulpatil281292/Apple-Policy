@@ -38,12 +38,9 @@ extension CustomTableViewController {
         return 0
     }
 }
-<<<<<<< HEAD
 
 extension CustomTableViewController {
     override func tableView(_ tableView: UITableView, didEndDisplaying cell: UITableViewCell, forRowAt indexPath: IndexPath) {
        print("Heloow")
     }
 }
-=======
->>>>>>> 23a2f6e046dc5aace3606ea968f7fd8f2743a0df
