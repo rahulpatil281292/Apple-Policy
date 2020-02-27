@@ -30,14 +30,13 @@ extension CustomTableViewController {
         return 11
     }
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-<<<<<<< Updated upstream
         return 11
-=======
-<<<<<<< HEAD
-        return 0
-=======
-        return 11
->>>>>>> Details-Updated files
->>>>>>> Stashed changes
     }
 }
+extension CustomTableViewController {
+    override func tableView(_ tableView: UITableView, didEndDisplaying cell: UITableViewCell, forRowAt indexPath: IndexPath) {
+       print("Hello world")
+       print("Welcome")
+    }
+}
+

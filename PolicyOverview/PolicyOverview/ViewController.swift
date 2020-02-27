@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     private func setUp() {
         setUpVC()
         setUpNavigationBar()
-        //setUpTableView()
+        setUpTableView()
     }
     private func setUpVC() {
         
@@ -32,3 +32,7 @@ class ViewController: UIViewController {
     }
 }
 
+extension ViewController {
+    // Add all private function here.
+    
+}
