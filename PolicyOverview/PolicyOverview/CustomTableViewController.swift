@@ -13,13 +13,6 @@ class CustomTableViewController: UITableViewController {
         super.viewDidLoad()
         setUp()
     }
-    private func setUp() {
-        setUpViewController()
-        setUpTableView()
-    }
-    private func setUpViewController() {
-        
-    }
 }
 
 extension CustomTableViewController {
