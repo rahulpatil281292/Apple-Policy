@@ -28,11 +28,11 @@ class ViewController: UIViewController {
         
     }
     private func setUpTableView() {
-        
+        // parivte
     }
 }
 
 extension ViewController {
-    // Add all private function here.
+    // Add all private function
     
 }
