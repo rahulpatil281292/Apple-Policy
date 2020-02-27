@@ -19,16 +19,16 @@ class ViewController: UIViewController {
         setUpTableView()
     }
     private func setUpVC() {
-        
+        print()
     }
     private func setUpNavigationBar() {
-        
+        print()
     }
     private func setUpTableView() {
-        
+        print()
     }
     private func sample() {
-        
+        print()
     }
 }
 
