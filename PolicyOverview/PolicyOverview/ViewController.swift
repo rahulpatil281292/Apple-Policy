@@ -9,18 +9,15 @@
 import UIKit
 
 class ViewController: UIViewController {
-
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
     private func setUp() {
         setUpVC()
         setUpNavigationBar()
         setUpTableView()
     }
-    
     private func setUpVC() {
         
     }
@@ -30,9 +27,11 @@ class ViewController: UIViewController {
     private func setUpTableView() {
         // parivte
     }
+    private func sample() {
+        
+    }
 }
 
 extension ViewController {
-    // Add all private function
     
 }
