@@ -20,9 +20,6 @@ class CustomTableViewController: UITableViewController {
     private func setUpViewController() {
         
     }
-    private func setUpTableView() {
-        
-    }
 }
 
 extension CustomTableViewController {
