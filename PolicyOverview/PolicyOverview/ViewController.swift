@@ -27,5 +27,8 @@ class ViewController: UIViewController {
     private func setUpTableView() {
         
     }
+    private func sample() {
+        
+    }
 }
 
