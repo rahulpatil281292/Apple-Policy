@@ -9,21 +9,17 @@
 import UIKit
 
 class CustomTableViewController: UITableViewController {
-        
     override func viewDidLoad() {
         super.viewDidLoad()
         setUp()
     }
-    
     private func setUp() {
         setUpViewController()
         setUpTableView()
     }
-    
     private func setUpViewController() {
         
     }
-    
     private func setUpTableView() {
         
     }
@@ -31,16 +27,9 @@ class CustomTableViewController: UITableViewController {
 
 extension CustomTableViewController {
     override func numberOfSections(in tableView: UITableView) -> Int {
-        return 0
+        return 11
     }
-    
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return 0
-    }
-}
-
-extension CustomTableViewController {
-    override func tableView(_ tableView: UITableView, didEndDisplaying cell: UITableViewCell, forRowAt indexPath: IndexPath) {
-       print("Heloow")
+        return 11
     }
 }
