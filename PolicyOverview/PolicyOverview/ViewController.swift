@@ -24,13 +24,15 @@ class ViewController: UIViewController {
     private func setUpVC() {
         
     }
-    
     private func setUpNavigationBar() {
         
     }
-    
     private func setUpTableView() {
         
     }
 }
 
+extension ViewController {
+    // Add all private function here.
+    
+}
