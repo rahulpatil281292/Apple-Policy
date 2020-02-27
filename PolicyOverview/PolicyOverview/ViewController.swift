@@ -33,6 +33,5 @@ class ViewController: UIViewController {
 }
 
 extension ViewController {
-    // Add all private function here.
     
 }
