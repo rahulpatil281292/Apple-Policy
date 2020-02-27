@@ -25,12 +25,6 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-=======
->>>>>>> Stashed changes
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="2lx-YE-gXC" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="178" id="2bF-66-O5t"/>
@@ -38,10 +32,6 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="2lx-YE-gXC" secondAttribute="trailing" constant="167" id="3Er-i6-hEe"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="2lx-YE-gXC" secondAttribute="bottom" constant="448" id="wM5-c5-28e"/>
                         </constraints>
-<<<<<<< Updated upstream
-=======
->>>>>>> Details-Updated files
->>>>>>> Stashed changes
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                 </viewController>
